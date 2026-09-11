@@ -72,6 +72,7 @@ The following models are explored and compared:
 - Decision Tree Regressor
 - Random Forest Regressor
 - Gradient Boosting Regressor
+- HistGradient Boosting Regressor
 
 ## Model Evaluation
 
